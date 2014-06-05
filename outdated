@@ -1,5 +1,5 @@
 #!/bin/bash
-
+what is travis means?
 export base=`pwd`
 
 git submodule foreach '                                                                                 \
